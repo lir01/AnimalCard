@@ -1,0 +1,48 @@
+
+
+.label {
+
+	font-weight: bold;
+}
+
+.fact {
+
+	font-style: italic;
+	color: green;
+}
+
+li {
+
+	list-style-type:none;
+}
+
+img {
+
+	width: 299px;
+	max-width: 299px;
+	margin: 5px;
+	border: 1px solid orange;
+}
+
+.infoContainer {
+
+	width: 300px;
+	max-width: 300px;
+	border: 1px solid gray;
+	margin: 5px;
+}
+
+.infoContainer p{
+
+	margin: 10px;
+}
+
+.card {
+	
+	width: 330px;
+	max-width: 330px;
+	margin: auto;
+	border: 1px solid gray;
+	padding: 10px;
+	box-shadow: 5px 10px #888888;
+}
